@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 8578
+NumStrings 8579
 StringInfo
 	ID "IDS_GDPRDIALOG_CANCELBUTTON"
 	Value "Decline"
@@ -20752,6 +20752,9 @@ StringInfo
 	ID "IDSOptionsScreenUserInterfaceOptionsReset"
 	Value "Reset"
 StringInfo
+	ID "IDSOptionsScreenUserInterfaceOptionsLanguageList"
+	Value "Language"
+StringInfo
 	ID "IDSOptionsScreenUserInterfaceOptionsScreenShotModeOn"
 	Value "Cinematic mode:On"
 StringInfo
@@ -25253,19 +25256,19 @@ StringInfo
 	Value "Ancient Evolution"
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_EVOLUTION_DESCRIPTION"
-	Value "Using Ancients as hosts and incorporating their DNA, the Wraith evolve at a rapid pace."	
+	Value "Using Ancients as hosts and incorporating their DNA, the Wraith evolve at a rapid pace."
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_ANCIENTPOWERRESEARCH_NAME"
 	Value "Ancient Power Generation"
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_ANCIENTPOWERRESEARCH_DESCRIPTION"
-	Value "By finding an Ancient ZPM Artifact and learning its secrets, the Wraith are able to improve their ships in nearly every way and create ship designs never thought possible. "	
+	Value "By finding an Ancient ZPM Artifact and learning its secrets, the Wraith are able to improve their ships in nearly every way and create ship designs never thought possible. "
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_CLONEDEVELOPMENT_NAME"
 	Value "Clone Development"
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_CLONEDEVELOPMENT_DESCRIPTION"
-	Value "Due to the organic nature of the Wraith fleet, cloning technology is not only effective at producing soldiers quickly and cheaply, but ships as well. "	
+	Value "Due to the organic nature of the Wraith fleet, cloning technology is not only effective at producing soldiers quickly and cheaply, but ships as well. "
 StringInfo
 	ID "IDS_WRAITH_RESEARCH_STARBASEUPGRADE_BLOCKCOLONIZETECH_NAME"
 	Value "Auxiliary Government"
