@@ -2,7 +2,8 @@ TXT
 tabButtonIcon "OptionsScreenVideoOptionsTabButton"
 tabButtonText "IDSOptionsScreenVideoOptionsTabButton"
 resolutionListArea [50, 100, 220, 406]
-refreshRateListArea [285, 100, 220, 406]
+refreshRateListArea [285, 100, 220, 186]
+windowModeListArea [285, 320, 220, 186]
 multiSampleTypeListArea [520, 100, 220, 186]
 anisotropyLevelListArea [520, 320, 220, 186]
 resetButton
@@ -31,6 +32,10 @@ refreshRateListLabel
 	area [285, 70, 220, 30]
 	fontId "Label"
 	text "IDSOptionsScreenVideoOptionsRefreshRateList"
+windowModeListLabel
+	area [285, 290, 220, 30]
+	fontId "Label"
+	text "IDSOptionsScreenVideoOptionsWindowModeList"
 multiSampleTypeListLabel
 	area [520, 70, 220, 30]
 	fontId "Label"
@@ -39,9 +44,6 @@ anisotropyLevelListLabel
 	area [520, 290, 220, 30]
 	fontId "Label"
 	text "IDSOptionsScreenVideoOptionsAnisotorpyLevelList"
-isWindowedCheckBox
-	area [49, 568, 220, 30]
-	text "IDSOptionsScreenVideoOptionsIsWindowed"
 gammaScrollBar
 	area [50, 520, 350, 30]
 	text "IDSOptionsScreenVideoOptionsGamma"
