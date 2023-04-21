@@ -1,6 +1,7 @@
 TXT
 tabButtonIcon "OptionsScreenUserInterfaceOptionsTabButton"
 tabButtonText "IDSOptionsScreenUserInterfaceOptionsTabButton"
+languageListArea [50, 40, 220, 126]
 resetButton
 	area [50, 620, 220, 46]
 	fontId "ButtonLabel"
@@ -10,6 +11,10 @@ resetButton
 	overlay "ScreenButtonOverlayLarge"			
 	icon "OptionsScreenUserInterfaceOptionsReset"
 	text "IDSOptionsScreenUserInterfaceOptionsReset"	
+languageListLabel
+	area [50, 10, 220, 30]
+	fontId "Label"
+	text "IDSOptionsScreenUserInterfaceOptionsLanguageList"
 toggleScreenShotModeButton
 	area [50, 470, 220, 46]
 	fontId "ButtonLabel"
@@ -34,7 +39,7 @@ showNamesCheckBox
 	area [49, 172, 220, 30]
 	text "IDSOptionsScreenUserInterfaceOptionsShowNames"	
 showTeamColorsCheckBox
-	area [49, 100, 220, 30]
+	area [284, 90, 220, 30]
 	text "IDSOptionsScreenUserInterfaceOptionsShowTeamColors"	
 showMainViewIconsCheckBox
 	area [49, 388, 220, 30]
@@ -73,7 +78,7 @@ showTacticalGridCheckBox
 	area [49, 208, 220, 30]
 	text "IDSOptionsScreenUserInterfaceOptionsShowTacticalGrid"	
 alwaysAutoPlaceExtractorsCheckBox
-	area [49, 64, 220, 30]
+	area [284, 54, 220, 30]
 	text "IDSOptionsScreenUserInterfaceOptionsAlwaysAutoPlaceExtractors"	
 invertCameraHorizontalRotationCheckBox
 	area [284, 552, 220, 30]
